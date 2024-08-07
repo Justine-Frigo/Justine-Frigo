@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justine-frigo&label=Profile%20views&color=0e75b6&style=flat" alt="justine-frigo" /> </p>
 
-- 🌱 I’m currently learning **Vue.js** and **React**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **justine0912@gmail.com**
 
